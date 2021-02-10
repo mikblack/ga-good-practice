@@ -11,3 +11,15 @@ Workshop based on the papers:
     Sandve GK, Nekrutenko A, Taylor J, Hovig E. PLoS Comput Biol. 2013 Oct;9(10):e1003285. 
     <BR>
     doi: [10.1371/journal.pcbi.1003285](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+
+Workshop sections:
+
+ - 0.Overview
+ - 1.DataManagement
+ - 2.Software
+ - 3.Collaboration
+ - 4.ProjectOrganization
+ - 5.KeepingTrack
+ - 6.Manuscripts
+
+ 
