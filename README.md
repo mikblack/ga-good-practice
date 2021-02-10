@@ -14,12 +14,12 @@ Workshop based on the papers:
 
 Workshop sections:
 
- - 0.Overview
- - 1.DataManagement
- - 2.Software
- - 3.Collaboration
- - 4.ProjectOrganization
- - 5.KeepingTrack
- - 6.Manuscripts
+ - [Overview](https://github.com/mikblack/ga-good-practice/tree/main/0.Overview)
+ - [DataManagement](https://github.com/mikblack/ga-good-practice/tree/main/1.DataManagement)
+ - [Software](https://github.com/mikblack/ga-good-practice/tree/main/2.Software)
+ - [Collaboration](https://github.com/mikblack/ga-good-practice/tree/main/3.Collaboration)
+ - [ProjectOrganization](https://github.com/mikblack/ga-good-practice/tree/main/4.ProjectOrganisation)
+ - [Keeping Track of Changes](https://github.com/mikblack/ga-good-practice/tree/main/5.KeepingTrack)
+ - [Manuscripts](https://github.com/mikblack/ga-good-practice/tree/main/6.Manuscripts)
 
  
