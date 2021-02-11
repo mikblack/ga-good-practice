@@ -8,7 +8,7 @@ Sections of the course:
  - ProjectOrganization
  - Keeping Track of Changes
  - Manuscripts
- - Reproducible Computational Research
+ - Ten Rules for Reproducible Computational Research
 
 *Work in progress*
 

@@ -5,4 +5,4 @@
 
 *Work in progress*
 
-Next section: [Reproducible Computational Research](https://github.com/mikblack/ga-good-practice/tree/main/7.Reproducibility)
+Next section: [Ten Rules for Reproducible Computational Research](https://github.com/mikblack/ga-good-practice/tree/main/7.Reproducibility)

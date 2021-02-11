@@ -1,4 +1,4 @@
-## Reproducible Computational Research
+## Ten Rules for Reproducible Computational Research
 
  - Rule 1: For Every Result, Keep Track of How It Was Produced
  - Rule 2: Avoid Manual Data Manipulation Steps
