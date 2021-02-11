@@ -21,5 +21,5 @@ Workshop sections:
  - [Project Organization](https://github.com/mikblack/ga-good-practice/tree/main/4.ProjectOrganisation)
  - [Keeping Track of Changes](https://github.com/mikblack/ga-good-practice/tree/main/5.KeepingTrack)
  - [Manuscripts](https://github.com/mikblack/ga-good-practice/tree/main/6.Manuscripts)
- - [Reproducible Computational Research](https://github.com/mikblack/ga-good-practice/tree/main/7.Reproducibility)
+ - [Ten Rules for Reproducible Computational Research](https://github.com/mikblack/ga-good-practice/tree/main/7.Reproducibility)
  
