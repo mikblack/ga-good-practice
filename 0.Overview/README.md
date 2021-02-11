@@ -2,10 +2,10 @@
 
 Sections of the course:
 
- - DataManagement
+ - Data Management
  - Software
  - Collaboration
- - ProjectOrganization
+ - Project Organization
  - Keeping Track of Changes
  - Manuscripts
  - Ten Rules for Reproducible Computational Research
